@@ -1,1 +1,3 @@
-# iot-fuse-2020-workshop
+# MATRIX & Mozilla IoT Workshop
+
+This repository contains all the prerequisites and steps needed to follow along our **Iot Fuze 2020** workshop. The objective of this workshop is to install the Mozilla IoT image, including MATRIX realated software, view all the MATRIX Creator's sensor data on **Things UI**, and then create/trigger a rule from a sensor.
