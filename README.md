@@ -4,7 +4,7 @@ This repository contains all the prerequisites and steps needed to follow along 
 
 ## Guides:
 
-- ### [Pre-Workshop Setup](PreWorkshop.md)
+- ### [Prerequisites](Prerequisites.md)
 
 - ### [Workshop Guide](Workshop.md)
 
