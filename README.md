@@ -11,4 +11,4 @@ This repository contains all the prerequisites and steps needed to follow along 
 ## Resources:
 - ### [MATRIX Community](https://community.matrix.one)
 - ### [Mozilla IoT Website](https://iot.mozilla.org/)
-- ### [Iot Fuse Workshops](https://iotfuse.com/conference2020/workshops/)
+- ### [IoTFuse Workshops](https://iotfuse.com/conference2020/workshops/)
