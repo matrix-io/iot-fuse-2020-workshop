@@ -25,11 +25,11 @@ With the addon enabled, you can now add the MATRIX Creator as a Thing. Go into y
 
 Each Thing we add will have a menu we can access to control or view various properties Click on the Creator's node-like icon to access its menu.
 
-![](./images/thing_icon.png)
+<img src="./images/thing_icon.png" width=150 />
 
 The menu will contain a live view of the Creator's sensor data and and option to control the LEDs.
 
-![](./images/thing_menu.png)
+<img src="./images/thing_menu.png" width=300 />
 
 Feel free to edit the **Color** property and then toggle the **On/Off** switch! The LEDs will change to the colors that you set.
 
