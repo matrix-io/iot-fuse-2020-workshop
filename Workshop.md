@@ -29,7 +29,7 @@ Each Thing we add will have a menu we can access to control or view various prop
 
 The menu will contain a live view of the Creator's sensor data and and option to control the LEDs.
 
-<img src="./images/thing_menu.png" width=300 />
+<img src="./images/thing_menu.png" width=400 />
 
 Feel free to edit the **Color** property and then toggle the **On/Off** switch! The LEDs will change to the colors that you set.
 
