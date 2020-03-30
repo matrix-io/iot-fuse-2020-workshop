@@ -35,4 +35,7 @@ Feel free to edit the **Color** property and then toggle the **On/Off** switch! 
 
 # 3. (TODO) Creating Custom Rules
 
+    - Trigger LEDS based on a time
+    - Trigger browser notification base don sensor value
+
 # 4. (TODO) Enabling The Web Voice Assistant
