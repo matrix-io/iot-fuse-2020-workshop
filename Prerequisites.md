@@ -132,7 +132,10 @@ In your terminal,
 ![](./images/select_city.png)
 
 - Select Finish
-- Reboot your Pi
+- Reboot your Pi by typing the following in your terminal
+```
+sudo reboot
+```
 
 
 # 5. Follow The Workshop
