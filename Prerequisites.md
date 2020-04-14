@@ -74,7 +74,8 @@ If you're not sure how to find your Pi's IP, you can download one of the followi
 <a href="https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en"><img width="200" src="./images/google_play_logo.png"/></a>
 </div>
 
-The following page should appear.
+
+Once you have accessed the Gateway through your browser, the following page should appear.
 
 ![](./images/choose_subdomain.png)
 
