@@ -109,4 +109,76 @@ Select the dropdown by **If** in the top left and change it to **While**. This w
 
 Go back to the "Things" page and test your rule by moving your MATRIX Creator until the "Pitch" value goes above 30 degrees and move it until "Pitch" is once again below 30 to see its state change back.
 
-# 4. (TODO) Enabling The Web Voice Assistant
+# 4. Enabling & Configuring The Voice Assistant
+
+Go to **Settings** -> **Developer** and then click **Create local authorization**.
+
+![](./images/get_token.png)
+
+Click **Allow** on the next page.
+
+![](./images/request_token.png)
+
+Copy the local token shown on your screen.
+
+![](./images/copy_token.png)
+
+Go to **Settings** -> **Add-ons** and then click **Configure** on the Voco addon.
+
+![](./images/voco_addon.png)
+
+Paste the token into the designated field and click **Apply**.
+
+Once the changes have been applied, the Gateway will take you back to the Addon page. Click **Enable** on the Voco addon.
+
+With the addon enabled, you can now add the Voco Snips voice assistant as a Thing. Go into your **Things** menu and select the **+** icon. Click **Save** and then **Done** on the Snips addon.
+
+![](./images/add_Snips_thing.png)
+
+# 5. Interacting with Voice
+
+On the **Things** page, the Snips addon will show up like below.
+
+![](./images/things_after_snips.png)
+
+If you click into it, the Snips addon has the following properties.
+
+![](./images/Snips_thing.png)
+
+If you have a speaker or headphones, attach it to the Raspberry Pi's audio output jack to hear the audio feedback from Snips.
+
+Play around with some of the properties to get a feel for how the Snips addon works.
+
+The wakeword is *Hey Snips*.
+
+Try something like *Hey Snips, set a timer for 30 seconds*. 
+
+Check the addon's [GitHub page](https://github.com/createcandle/voco) for a full list of available commands.
+
+
+# 6. Creating Rules with Voice
+Go back to the "Rules" tab and create a new rule.
+
+This time you'll see some new additions to your available tools.
+
+![](./images/available_tools_for_rules.png)
+
+We are going to create a simple rule to show you how to connect voice commands to visual feedback/reactions.
+
+Create a rule that turns your MATRIX Creator LEDs pink and turns them on when there is 1 Timer set via Snips voice control.
+
+![](./images/set_LEDs_w_timer.png)
+
+Test it out!
+
+Finally, let's test out the speech notifications.
+
+Create another rule which says **Rolling** when the MATRIX Creator's *Roll* property is greater than 90.
+
+![](./images/rolling_rule.png)
+
+Set the volume to **High** by selecting it for the *Level* property.
+
+![](./images/rolling_speech_noti.png)
+
+Go back to the **Things** page to test out the **Rolling** rule.
