@@ -7,9 +7,11 @@ The workshop will walk through how to use the Mozilla IoT Gateway through its UI
 We will show you how to:
 
 - Control the LEDs manually from the Things UI
-- Enable the voice assistant (one you can use from a website)
-- Trigger LEDs from voice assistant
-- Add rule based on UV value to trigger notification & LED color change
+- Create custom rules
+- Control LEDs based on sensor readings
+- Enable the voice assistant
+- Trigger LEDs in response to voice-based actions
+- Set up audio notifications based on sensor values
 
 # 1. Enabling The MATRIX Addon
 
