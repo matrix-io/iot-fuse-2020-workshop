@@ -9,7 +9,7 @@ We will show you how to:
 - Control the LEDs manually from the Things UI
 - Create custom rules
 - Control LEDs based on sensor readings
-- Enable the voice assistant
+- Enable a voice assistant (this workshop utilizes the Voco addon based on the Snips.ai voice assistant)
 - Trigger LEDs in response to voice-based actions
 - Set up audio notifications based on sensor values
 
