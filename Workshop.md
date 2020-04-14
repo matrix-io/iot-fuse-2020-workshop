@@ -15,7 +15,7 @@ We will show you how to:
 
 # 1. Enabling The MATRIX Addon
 
-The image provided for this workshop contains the Mozilla IoT gateway preinstalled with our MATRIX addon. Once logged into your Gateway, go to **settings** -> **Add-ons** and then click **Enable** on the MATRIX addon.
+The image provided for this workshop contains the Mozilla IoT gateway preinstalled with our MATRIX addon. Once logged into your Gateway, go to **Settings** -> **Add-ons** and then click **Enable** on the MATRIX addon.
 
 ![](./images/matrix_addon.png)
 
