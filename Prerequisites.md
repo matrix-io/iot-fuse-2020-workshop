@@ -27,7 +27,7 @@ Before plugging in your Raspberry Pi, you'll need to flash its Micro SD Card.
 What's inside our image?
 </summary>
 
-Aside from the following dependencies, our image is a slimmed down Mozilla IoT Gateway image based on Raspbian Buster. These dependancies are listed here, if you wish to replicate this in another setup.
+Aside from the following dependencies, our image is a slimmed down Mozilla IoT Gateway image based on Raspbian Buster. These dependencies are listed here, if you wish to replicate this in another setup.
 - [MATRIX Lite JavaScript Setup](https://matrix-io.github.io/matrix-documentation/matrix-lite/getting-started/javascript/)
 - [MATRIX Kernel Modules](https://matrix-io.github.io/matrix-documentation/matrix-creator/resources/microphone/#usage)
 - [MATRIX Creator Addon](https://github.com/matrix-io/matrix-mozilla-iot-addon)
