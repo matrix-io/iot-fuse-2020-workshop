@@ -1,6 +1,6 @@
 # Prerequisites
 
-This guide will go over everything you need to follow along the workshop.
+This guide will go over everything you need to follow along with the workshop.
 
 # Required Hardware
 
