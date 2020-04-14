@@ -38,9 +38,8 @@ Aside from the following dependencies, our image is a slimmed down Mozilla IoT G
 
 # 2. Connect The Raspberry Pi To Your Network
 
-Once flashed, reinsert the Micro SD Card into your computer. A volume named `boot` should appear. The next step will have you add your WiFi configuration into this volume.
+Once flashed, reinsert the Micro SD Card into your computer. A volume named `boot` should appear. This step will have you add your WiFi configuration into this volume.
 
-### 2. WiFi Configuration
 >**Your Pi must be on the same network as your personal computer.**
 
 >**This step can be skipped if your Raspberry Pi has an ethernet connection.**
