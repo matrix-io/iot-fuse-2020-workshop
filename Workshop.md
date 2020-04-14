@@ -66,7 +66,7 @@ At this point, you should see part of the if-statement filled out as shown below
 
 Adjust the time in the clock device input to be 5 minutes from the present time. 
 
-If you fulfilled the pre-requisites, your Raspberry Pi should already be configued to your time zone. If it is not, please follow the directions here first.
+If you fulfilled the pre-requisites, your Raspberry Pi should already be configued to your time zone. If it is not, please follow the directions [here](#enable-SSH-and-set-time-zone) first.
 
 Select the "Color" property in the dropdown for the top MATRIX Creator device and set the color to blue.
 
